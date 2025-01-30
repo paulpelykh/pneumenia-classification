@@ -1,3 +1,5 @@
+setuptools>=42
+wheel
 numpy==1.23.5
 streamlit==1.22.0
 Pillow==9.5.0
