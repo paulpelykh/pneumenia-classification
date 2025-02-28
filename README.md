@@ -1,4 +1,5 @@
 # pneumonia-classification
+![image](https://github.com/user-attachments/assets/0cb3e7da-52be-4621-8fdf-eac5e2461bac)
 
 ## data
 
